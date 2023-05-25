@@ -63,6 +63,3 @@ app.listen(port, () => {
   console.log(`Local server is live at port ${port}`);
 });
 
-// API key = c27945a98649acc605bf71ecbefec123-us21
-
-// audience id = 45176b5f2c
